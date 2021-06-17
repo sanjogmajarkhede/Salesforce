@@ -4,6 +4,7 @@
 
  - Questions 
 	 - What is salesforce ?
+	   Ans: Salesforce is a CRM tool.
 	 - What is CRM ?
 	 - What are its advantages over other products ? How it is different from other CRM products?
 	 - What are different clouds ?
